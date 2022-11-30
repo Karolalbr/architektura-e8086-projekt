@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="processor.png" />
+    <None Remove="tło8086.png" />
+    <None Remove="z29160403Q,Jaroslaw-Kaczynski-na-spotkaniu-w-Jastrzebiu-Zdroj.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="processor.png" />
+    <Resource Include="tło8086.png" />
+    <Resource Include="z29160403Q,Jaroslaw-Kaczynski-na-spotkaniu-w-Jastrzebiu-Zdroj.jpg" />
+  </ItemGroup>
+
+</Project>

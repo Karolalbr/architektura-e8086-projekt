@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VfSXK4tD1LAFcGKFP1fJ3T7eaM9Gn7DXMcoMbIie4AYA/Amcb79S7wFt1K0SRJpXoiwcFSzd3qdv3Gcxg3G3EQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\karol.albrechtowicz\\Desktop\\e8086-master\\e8086\\e8086.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\karol.albrechtowicz\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "D:\\Users\\karol.albrechtowicz\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
